@@ -105,11 +105,11 @@ function Landing() {
         <div className="ml-28 mr-28">
           <div className="w-full py-12 my-20 bg-[#262C36] rounded-xl ">
             <div class="embed-container">
-              {/* <iframe
+              <iframe
                 src="https://lnk.webxspark.com/parkez-hero-video"
                 frameborder="0"
                 allowfullscreen
-              ></iframe> */}
+              ></iframe>
             </div>
           </div>
         </div>
